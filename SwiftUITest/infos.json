@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Java",
+        "imageName": "java",
+        "description": "Java language is a powerful language, but his some difficult.",
+        "category": "hard",
+        "type": "Difficult language",
+        "good": "He can create some projects.",
+        "bad": "He's difficult."
+    },
+    
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "imageName": "javascript",
+        "description": "JavaScript is the best language in this moment. He's very powerful, he has some frameworks for any projects. But, he change very fast.",
+        "category": "simple",
+        "type": "Easy language",
+        "good": "He's the best language in this moment.",
+        "bad": "He change very fast."
+    },
+    
+    {
+        "id": 3,
+        "name": "Swift UI",
+        "imageName": "swiftui",
+        "description": "Swift UI is the best language for programming iOS applications. He's very simple, and he can create some projects with some lines code. But, for coding in this language, you do to have a Mac.",
+        "category": "simple",
+        "type": "Easy language",
+        "good": "He's very simple.",
+        "bad": "He just can only program on Apple products."
+    }
+]
